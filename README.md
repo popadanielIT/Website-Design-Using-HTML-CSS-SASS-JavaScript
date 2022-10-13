@@ -9,6 +9,7 @@ How to make a complete responsive cosmetics / spa / makeup website design templa
 <p>✅ responsive shop / products section with touch slider using swiper.js.</p>
 <p>✅ responsive lightbox gallery section with touch slider using lightbox-js.</p>
 <p>✅ responsive team section using css grid.</p>
-<p>✅ responsive reviews / testimonial section with touch slider using swiper.js. ✅ responsive service section with css grid.</p>
+<p>✅ responsive reviews / testimonial section with touch slider using swiper.js. 
+<p>✅ responsive service section with css grid.</p>
 <p>✅ responsive blogs / news / posts section with touch slider using swiper.js.</p>
 <p>✅ responsive footer section with css grid.</p>
